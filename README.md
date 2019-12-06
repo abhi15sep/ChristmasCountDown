@@ -1,2 +1,0 @@
-# ChristmasCountDown
-Created with CodeSandbox
